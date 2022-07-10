@@ -9,7 +9,8 @@
     --mdark3: #212121;
 } */
 
-cd {
+cd { /* 3 5 0 1 5 */
+    /* 5 0 1 */
     --ceo-c1: #131418;
     --ceo-c2: #15161a;
     --ceo-c3: #16181c;
@@ -29,6 +30,26 @@ cd {
     --ceo-d7: #313338;
     --ceo-d8: #32343a;
     --ceo-d9: #35373c;
+    /* 3 0 5 */
+    --dracula-c1: #111218;
+    --dracula-c2: #13141a;
+    --dracula-c3: #15161c; /* 1 */
+    --dracula-c4: #17181f;
+    --dracula-c5: #191922;
+    --dracula-c6: #1a1b24;
+    --dracula-c7: #1b1c25;
+    --dracula-c8: #1c1d27;
+    --dracula-c9: #1d1e28;
+    --dracula-d0: #1e1f29; /* 2 */
+    --dracula-d1: #21222c;
+    --dracula-d2: #22232d;
+    --dracula-d3: #252630;
+    --dracula-d4: #272831;
+    --dracula-d5: #282a36; /* 3 */
+    --dracula-d6: #2b2c36;
+    --dracula-d7: #2e2f38;
+    --dracula-d8: #30313a;
+    --dracula-d9: #32333c;
 }
 
 #1b1d21 {
